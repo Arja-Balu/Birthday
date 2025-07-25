@@ -48,7 +48,7 @@ export default function Puzzle1() {
     <div className="center">
       <h2>Puzzle 1</h2>
       <p>What will you drink the most? (Hint: It is brown in color)</p>
-      <p>Answer wrong or empty ga submit cheyakudadhu akka..</p>
+      <p>Answer wrong or empty ga submit cheyakudadhu akka.., cheste em avvudho chuduu</p>
       <input
         value={answer}
         onChange={handleInputChange}
