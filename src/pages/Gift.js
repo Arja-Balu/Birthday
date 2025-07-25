@@ -9,8 +9,8 @@ export default function Gift() {
 
   return (
     <div className="center">
-      <h1>🎁 Happy Birthday! 🎁</h1>
-      <p>You solved all the puzzles! Here's your surprise:</p>
+      <h1>🎁 Happy Birthday akkaa... 🎁</h1>
+      <p>Parledhu brain undhi..</p>
 
       {/* Replace the src below with your real video download link */}
       <a
