@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="center">
       <h1>Happy Birthday Akkaaaa..... 🎉</h1>
-      <p>Start solving the puzzles to unlock your final gift!</p>
+      <p>haha, answers cheppi gift tesko....</p>
       <button onClick={() => navigate('/puzzle1')}>Start the Hunt</button>
     </div>
   );
